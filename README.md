@@ -13,6 +13,7 @@ Hier liegen Dateien für den Informatik-Stammtisch
    Unterstützung wird benötigt, um eine geeignete Location in Hamburg zu finden. Potentielle Locations sind:
    - [Places Hamburg](http://www.places-hamburg.de): Stilvoller Coworking Space in der Innenstadt mit Open Space und Work Boxen, geeignet für Meetings und Events.
    - [Hamburger Ding](https://hamburgerding.de): Coworking Space und Eventlocation auf der Reeperbahn mit vielfältigen Räumlichkeiten und moderner Ausstattung.
+   - [Altes Mädchen](https://altes-maedchen.com/de/stammtisch): Etwas abseits vom Trubel und trotzdem mittendrin haben hier bis zu 23 Personen gemütlich Platz. Der große Holztisch in der Mitte eignet sich perfekt für ein ungestörtes Abendessen
 
 4. **Termin**  
    Für jeden Termin wird ein individueller Wochentag gewählt, statt eines festen Musters.
